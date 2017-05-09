@@ -25,5 +25,5 @@ while True:
     tweet = str(imperial_times_news.tweet_news())
     api.update_status(status=tweet)
     print(tweet)
-    print('+++')
-    time.sleep(120)
+    #print('+++')
+    time.sleep(3600)
