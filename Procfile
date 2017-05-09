@@ -1,1 +1,1 @@
-worker: python tweetbot.py
+worker: python imperial_times_tweeter.py
