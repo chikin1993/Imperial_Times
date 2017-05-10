@@ -20,4 +20,4 @@ while True:
     tweet = str(imperial_times_news.tweet_news())
     api.update_status(status=tweet)
     print(tweet)
-    time.sleep(36)
+    time.sleep(3600)
