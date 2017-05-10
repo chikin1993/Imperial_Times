@@ -1,5 +1,653 @@
+Baroda
+Baalus Trine
+Paraxus
+Delta Arbuthnot
+Plutol
+Albitern
+Merida
+Constantinium
+Nemesis Tessera
+Vraks Prime
+Medusa V
+Gruss
+Pylar
+Donia
+Tsade II
+Kenov III
+Cyclopea
+Kaurava I
+Varestus Prime
+Dellerax
+Dulan
+Epsion Octarius
+Herodor
+Kimmeria
+Alfrost
+Nimbosa
+Gereon
+Inwit
+K’ail
+Rand XXI
+Arminiun
+Amistel
+Anthos
+Brimlock
+Verica VII
+Krieg
+Drook VI
+Finreht Three-Seven
+Framlingham
+Harakon
+Praedis Zeta
+Jouran
+Jumael IV
+Kaledon
+Mordant Prime
+Mordian
+Praetoria
+Pyran
+Terrax
+Vostroya
+Amerigo Secundus
+Carlos McConnell
+Hyannoth IV
+Verdant
+Varoli Secundus
+Blitzen
+Phyressia
+Carcharias
+Valhalla
+Tranquility-III
+Vardan
+Tanis
 Terra
-Ultramar
-Mars
+Ultra Maximus
+Heletine
+Piscina IV
+Chosin
+Pandora Prime
+Eurytion
+Saturn
+Veskepine
+Ironhelm
+Davin
+Mekbuda
+Taygeta
+Terion
+Masali
+Quintarn
+Tarentus
+Espandor
+Calth
+Talassar
+Iax
+Gargathea III
+Murder
+Phaeton
+Circe
+Lucid Prime
+Shardenus
+Archipelaga
+Gamara 12
+Ashek II
+Formal Prime
+Krourk
+Damnia
+Urdesh
+Urus
+Cociaminus
+Modren Prime
+Amarah Prime
+Cypra Mundi
+Bakka
+Kar Duniash
+Hydraphur
+Adacore
+Altid 156
+Antecanis IV
+Antax
+Eydolim
+Ephisia
+Gonoria Prime
+Lammas
+Cassell
+Elysiar
+Acralem
+Pavonis
+Rylan
+Alantor X
+Melchior
+Cullrak
+Lostok
+Scathe
+Hexis Alpha
+Karnak II
+Adumbria
+Cinderus XI
+Asherkin
+Veonid
+Vorlanthus IV
+Duthovan
+Kovalic II
+Haark
+Nekkar
+Kanzuz IX
+Castix VIII
+Rhorsch
+Boros
+Nonimax
+Grimoyr
+Karkariad
+Oscillia IX
+Ambold Eleven
+Kragh
+Miral II
+Vallyx V
+Temportus
+Sharlor
+Lector's Lowel
+Sarum
+Boonhaven
+Chiros
+Colcha
+Curwen
+Cyrus Vulpa
+Dreah
+Gravalax
+Hamooth
+Iesta Veracrux
+Iocanthos
+Marunda II
+Orbel Quill
+Pavar V
+Percipre
+Picus
+Regulus
+Samax IV
+San Leor
+Saras VII
+Siculi
+Sigma-Agrius
+Solshen XIX
+Spectoris
+Stygian Prime
+Tephaine Minor
+Torian
+Victrix Sonora
+Viridia
+Hilarion
+Hagia
+Khai-zhan
+Avignor
+Dimmamar
+Dorvastor
+Gallilenus III
+Ignatius Cardinal
+Nedicta Secundus
+Ophelia VII
+Orthoda Rex
+Phaistos Osiris
+Scound's Fall
+St. Guise
+Balhaut
+Cryptus
+Cybele
+Granithor
+Hypasitis
+Crux
+Elysia
+Gudrun
+Jollana
+Kaurava II
+Kaurava IV
+Manzipor
+Minerva
+Periremunda
+Perlia
+Pyrites
+Rhanda
+Sameter
+Surealis VI
+Trepytos
+Voltemand
+Tallarn
+Tahnel
+Amistel Majoris
+Byssta
+Canak
+Catachan
+Cesstium
+Crake's World
+Croatoa
+Denkari Minor
+Derwynia
+Endymion Prime
+Gath Rimmon
+Haddrack
+Laius Rift
+Lesser Nox
+Maypax
+Megiddio Primus
+Menazoid Epsilon
+Mortressa
+Phyrr
+Sans Gaviria
+Sycorax
+Woe
+Zel Secundus
+Karrik
+Khymara
+Autega
+Gacrux
+Goru-Prime
+Marfak
+Murzim
+Na'jadar
+Quatara-Prime
+Quatra
+Secunda
+Thargorum
+Thoth
+Yu'Kanesh
+Zibal
+Herod
+Arkunasha
+Aggaros
+Arconar
+Blackwater
+Dusk
+Dwimlicht
+Endrite
+Fedrid
+Kanak
+Khongkotan
+Lacusta
+Lilia Mundi
+Monrass
+Strank
+Tygress III
+Tygress V
+Typhon Primaris
+Unloth
+Valos Krin
+Veridian
+Volonx
+Mordriana III
+Acreage
+Asgard
+Attila
+Calderis
+Coseflame
+Elros
+Fervious
+Heterodyne
+Ichovor
+Sepheris Secundus
+Sisk
+Solstice
+Tranquility II
+Triandr
+Vhospis
+Ynnen
+Accatran
+Agripinaa
+Albert IV
+Anvilus Nine
+Artemia Majoris
+Bakus III
+Belacane
+Belial
+Beshic V
+Dantris III
+Dynax Primus
+Estaban III
+Estaban VII
+Fortis Binary
+Gorgonum
+Goth
+Graia
+Hadd
+Helios
+Hellgrace
+Hesh
+Het
+Idumea
+Incaladion
+Jupiter
+Kai
+Lathes
+Lucius
+Magnos Omicron
+Metalica
+Mezoa
+M'khand
+Mordax
+Mpandex
+Omnicron 71-DX
+Opus Macharius
+Ordana
+Orestes
+Palatine III
+Perinetus
+Ryza
+Shenlong
+Skorgulian
+Stygia XII
+Stygies VIII
+Synford
+Tancredi
+Taslan's Forge
+Telemachus
+Tolkhan
+Triplex Phall
+Ur-haven
+Vanaheim
+Vaznagrod
+Voss Prime
+Zhao-Arkkad
+Zosma
+Anshur
+Cloister
+Ganf Magna
+Kalf
+Lehyde X
+Marioch
+Sinophia
+Stonekraal
+Sulo
+Tanstar 88
+Tygress I
+Tygress II
+Ysai Ydumee
+Zel Tertius
+Orask
+Hoight
+Aerius
+Algol
+Aralan
+Arcadia
+Archaos
+Avellorn
+Baraspine
+Black Reach
+Bront
+Canopus
+Clove
+Cyclopean Prime
+Delaphina
+Derdoni
+Don-Croix
+Drachu
+Fenksworld
+Fornax Aleph
+Galaspar
+Gehenna Prime
+Gnosis Prime
+Guytoga
+Hazhim
+Hermetica
+Hredrin
+Ichar IV
+Ichtar IX
+Japheth
+Jones Crispin World
+Landunder
+Lo
+Malfi
+Megheim
+Meridian
+Merov
+Merovincha
+Methalor
+Minea
+Necromunda
+Orar
+Orphidia Delta
+Orphidia Prime
+Paraghast
+Persepolis
+Piety
+Prol IX
+Raxos
+Samson IV
+Scintilla
+Targus VIII
+Temperis
+Thical
+Thracian Primaris
+Tranch
+Turren Primus
+Vanqualis
+Vaust
+Vaxanide
+Verghast
+Thruscas Sine
+Furund
+Galathas II
+Go'shol
+Heckla
+Hubris
+Lorn V
+Mara
+Mendona
+Wezn
+Winterhome IX
+Yngirheim
+Zoran
+Simia Orichalcae
+Betalis III
+Arx
+Bray
+Orana
+Paramar
+Paramar V
+Pintax
+Purgatory
+Yarant
+Trontiux III
+Aumet
+Balur
+Banna
+Betalis IV
+Bifrost
+Bren's World
+Britan
+Clax
+Cyris
+Darcia
+Darendara
+Darkenhel
+Darillia
+Delta Tao
+Dernhelm
+Dolsia
+Etiamnun III
+Flotte
+Gaero Alphus
+Galan V
+Hadleys Hope
+Harkon
+Heidrun
+Iduno
+Jurn
+Kamenka Troika
+Khedd 1173
+Limnus Epsilon
+Lissandro
+Mahr'douk
+Methusela
+Neptune
+Phobos
+Port Veruca
+Qulus Trine
+Ritzos
+Surtur
+Tekarn
+Treconandal
+Volscar
+Auric
+Garm
+Kaladrone
+Kallista
+Luxor
+Nomanus
+Phalan X
+Quintus
+Vrantis III
+Arimaspia
+Belaeno
+Elnath
+Galavan
+Galmor
+Goranado
+Graffias
+Hyades
+Merga
+Nalibraxis II
+Naos
+Rana
+Biegel 9
+Argentor
+Carpathia
+Alayran
+Emele
+Balzac
+Cinchare
+Dalthus
+Devlan
+Dunroamin VI
+Guryan
+Jubal
+K'otal
+Luggnum
+Pellucida IX
+Sophano Prime
+Soryth
+Uldan
+Vernalis
+Altaneum
+Brun
+Eswulus
+Tyrama Secundus
+Anark Zeta
+Askelphion Secundus
+Quaddis
+Reth
+Yspotua
+Dorrholtz
+Ferroxian
+Izzakos
+Kommitzar
+Drusus
+Idyll
+Innocence III
+Kathur
+Maccabeus Quintus
+Macharia
+Mithron
+Sanctus Lys
+Sarius V
+Valon Urr
+Veneris
+Belatis IV
+Aghoru
+Al-Arach
+Algol Nine
+Anemae Gulfward
+Ariyo
+Arthos
+Azoras
+Behtle V
+Berin
+Caer Malafori
+Caruana-W
+Chaemos
+Chaoku-Minor
+Cystan
+Dantium
+Drade-73
+Drex
+Dykastra
+Elara Prime
+Ephaeda
+Esko
+Gammenon IX
+Garomar
+Gathalamor
+Genarius Prime
+Gilreh
+Gororan III
+Guer III
+Gythos
+Hegelian IX
+Hethgar Prime
+Hlatan
+Husk
+Hyraq II
+Inferria-Prime
+Kaenis V
+Kaliman IV
+Karnax 17
+Kentaur
+Knarr
+Kodiak Prime
+Laymon
+Lethys
+Levion Gamma
+Ligeria
+Lima Rogan
+Llagris
+Lodius
+Machiun
+Magnax V
+Malbolge IV
+Mariach
+MG-Dyel
+Nanthrax III
+New Bylar
+Oldarian
+Omeros
+Ophelion
+Oriflame
+Orlen
+Orlenza Triartes
+Pelius
+Prixetti VII
+Rayvenscrag IV
+Rovanat IV
+Sable
+Sancour
+Semus
+Skardenfel
+Skeros
+Sylphis II
+Tellerax Prime
+Tertius
+Thain
+Thain II
+Torison VII
+Translock
+Trontium VI
+Troudor
+Uralan
+Volghast
+Vorg Prime
+Voth
+Xarsis Plethis
+Yngroth
+Ymnar
+Zalamis
+Brezal III
+Chaspia
+Ergotia
+Foth III
+Foth VI
+Gohliath IV
+Mysibis
+Rhodus
+Sepharis Ultra
+Sparme
+Tsan Domus
+Yrnax
 
 STOP

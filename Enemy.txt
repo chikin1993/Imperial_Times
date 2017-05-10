@@ -1,10 +1,146 @@
 Traitor Marines
 Eldar
+Necrons
+Pariah
 Tyranids
+Genestealers
+Zoat
 Orks
+Gretchin
+Snotlings
 Dark Eldar
-Chaos Deamons
-Traitor Guardsmen
+Deamons
+Traitor Guard
 Tau
+Anthrazods
+Brachyura
+Demiurg
+Formosian
+Galg
+G’nosh
+Greet
+Hrenian
+Ji'atrix
+Kroot
+Morralian
+Nagi
+Nicassar
+Ranghon
+Tau
+Vespid
+Yabi-Yabi
+Antedil
+Arachen
+Argonite
+Bale Childer
+Barghesi
+Borlac
+Brynarr
+Byavoor
+Caradochian
+Chromes
+Chuffian
+Cimmeriac
+Clawed fiend
+Cryptos
+Cyranax Watchers
+Cythor Fiend
+Djarlik
+Donarathi
+Dracolith
+Draethri
+Drahendra
+Drahken
+Draxian
+Drugh
+Ecto-Saurids
+Egarian
+Enoulians
+Ff'eng
+Fra’al
+Galg
+Galthite
+Ghassulian
+Groevian Fiends
+Gykon
+Haruspex
+Hellgrammite
+Hrenian?
+Hrud
+Hykosi
+Jokaero
+Jorgall
+K'nib
+Kehletai
+Keylekid
+Kharateg
+Khrave
+Kinebrach
+Kral'ac
+Lacrymole
+Laer
+Lelith
+L'Huraxi
+Lok'kroll
+Losh
+Loxatl
+Mecronid
+Megarachnids
+Mitu
+Morgauth
+Morralian?
+Muhlari
+Nadirax
+Naiad
+Nekulli
+Nepenthis Trans-Plants
+Nephilim
+Noisome Reek
+Noman
+Noulia
+Osirian Psybrid
+Phoroki
+Psy-Gore
+Q'orl
+Rak'Gol
+Rashan
+Reptos
+Rykogene
+Saharduin
+Saruthi
+Scaephylyds
+Scandrane
+Scythian
+Simulacra
+Slann
+Slaugth
+Sslyth
+Strinx
+Stryite
+Stryxis
+Sylvae
+Syrshin
+Tarellian
+Taralais
+Thazeme
+Thexian
+Thraxian
+Thyrrus
+Tushepta
+Ubergast
+Uluméathic
+Unkerhi
+Ur-Ghuls
+Vassalian
+Vektates
+Verminthiculians
+Viskeon
+Vrakk
+Vyggh
+Xenarchs
+Xshesians
+Yuranthos
+Yu'vaths
+Zygos
 
 STOP
