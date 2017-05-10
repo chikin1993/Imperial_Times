@@ -17,7 +17,7 @@ Brachyura
 Demiurg
 Formosian
 Galg
-G’nosh
+Gâ€™nosh
 Greet
 Hrenian
 Ji'atrix
@@ -57,7 +57,7 @@ Ecto-Saurids
 Egarian
 Enoulians
 Ff'eng
-Fra’al
+Fraâ€™al
 Galg
 Galthite
 Ghassulian
@@ -65,7 +65,7 @@ Groevian Fiends
 Gykon
 Haruspex
 Hellgrammite
-Hrenian?
+Hrenian
 Hrud
 Hykosi
 Jokaero
@@ -88,7 +88,7 @@ Mecronid
 Megarachnids
 Mitu
 Morgauth
-Morralian?
+Morralian
 Muhlari
 Nadirax
 Naiad
@@ -128,7 +128,7 @@ Thraxian
 Thyrrus
 Tushepta
 Ubergast
-Uluméathic
+UlumÃ©athic
 Unkerhi
 Ur-Ghuls
 Vassalian
