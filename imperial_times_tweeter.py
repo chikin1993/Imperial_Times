@@ -8,12 +8,7 @@ This script is to tweet news made from the imperial_times_news.py file
 import tweepy
 import time
 import imperial_times_news
-
-# Creating variables for keys to pass to the API for authorisation
-consumer_key = 'ctNkMPbduh6YSp7VCmKtbAocQ'
-consumer_secret = 'qhAJ659GYj2m8hvCuoyIC8YMOT2BOXR6q0WopC1IThMgsolhsT'
-access_token = '849994235940139016-meG7LZ1aWRSFIYkgLpHnUeQUoOOfLb3'
-access_token_secret = 'i2CRdu8xxSC4Nkuc6pnnDYqSjxiu3eIwBjVmpIEOERyYu'
+from twitter_keys import *
 
 # Set up OAuth and integrate with API
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
@@ -25,5 +20,4 @@ while True:
     tweet = str(imperial_times_news.tweet_news())
     api.update_status(status=tweet)
     print(tweet)
-    #print('+++')
-    time.sleep(3600)
+    time.sleep(36)
