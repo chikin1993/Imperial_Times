@@ -1,6 +1,319 @@
+Absolvers
+Accipiters
+Angel Guard
+Angels Encarmine
+Angels Eradicant
+Angels Numinous
+Angels of Absolution
+Angels of Damnation
+Angels of Fire
+Angels of Fury
+Angels of Iron
+Angels of Penance
+Angels of Purgatory
+Angels of Redemption
+Angels of Repentance
+Angels of Retribution
+Angels of Vengeance
+Angels of Vigilance
+Angels of Wrath
+Angels Penitent
+Angels Porphyr
+Angels Puissant
+Angels Redeemed
+Angels Repentant
+Angels Resplendent
+Angels Sanguine
+Angels Vermillion
+Angels Vindicant
+Astral Fists
+Astral Hawks
+Auric Patricians
+Aurora Chapter
+Aurora Talons
+Avengers
+Avenging Sons
+Benedictors
+Black Consuls
+Black Crusaders
+Black Dragons
+Black Guard
+Black Inculpators
+Black Ravens
+Black Talons
+Black Templars
+Black Wings
+Blazoned Legion
+Blood Angels
+Blood Drinkers
+Blood Eagles
+Blood Legion
+Blood Lords
+Blood Ravens
+Blood Reavers
+Blood Swords
+Blood Tigers
+Brazen Claws
+Brazen Minotaurs
+Brazen Skulls
+Brotherhood of a Thousand
+Brothers Penitent
+Carcharodons
+Carmine Blades
+Celebrants
+Celestial Guard
+Celestial Lions
+Champions of Thanatos
+Charnel Guard
+Consecrators
+Contenders
+Crimson Fists
+Crimson Guard
+Crimson Paladins
+Crimson Scions
+Crimson Scythes
+Crimson Shades
+Crimson Swords
+Crimson Talons
+Crimson Templars
+Crusaders
+Dark Angels
+Dark Brotherhood
+Dark Crusaders
+Dark Eagles
+Dark Hands
+Dark Hunters
+Dark Sons
+Dark Swords
+Dark Templars
+Death Eagles
+Death Knights
+Death Spectres
+Death Strike
+Desert Lions
+Destroyers
+Dictators
+Disciples of Blood
+Disciples of Caliban
+Doom Eagles
+Doom Griffons
+Doom Legion
+Doom Warriors
+Dragon Lords
+Eagle Warriors
+Ebon Knights
+Emperor's Hands
+Emperor's Hawks
+Emperor's Scythes
+Emperor's Shadows
+Emperor's Shields
+Emperor's Spears
+Emperor's Storm
+Emperor's Warbringers
+Emperor's Wolves
+Espandors
+Excoriators
+Excubants
+Execrators
+Executioners
+Exemplars
+Exorcists
+Exsanguinators
+Falling Star
+Fire Angels
+Fire Lords
+Flame Eagles
+Flame Falcons
+Flesh Eaters
+Flesh Tearers
+Genesis Chapter
+Golden Angels
+Golden Gryphons
+Golden Halos
+Gorgons
+Grief Bringers
+Griffon Lords
+Guardians of Celeres
+Guardians of the Covenant
+Halo Brethren
+Halo Dragons
+Hammers of Dorn
+Hammers of Retribution
+Harbingers
+Hawk Lords
+Heralds of Ultramar
+Heralds of Vengeance
+Honoured Sons
+Hospitallers
+Hounds of Demos
+Howling Griffons
+Immortal Hearts
+Imperial Castellans
+Imperial Fists
+Imperial Harbingers
+Imperial Hawks
+Imperial Paladins
+Imperial Stars
+Imperial Talons
+Imperius Reavers
+Inceptors
+Inculcators
+Interceptors
+Invaders
+Inviolators
+Iron Champions
+Iron Crusaders
+Iron Fists
+Iron Hands
+Iron Hawks
+Iron Hearts
+Iron Knights
+Iron Lords
+Iron Shades
+Iron Shields
+Iron Snakes
+Iron Talons
+Jade Dragons
+Knights of Dorn
+Knights of Gryphonne
+Knights of the Raven
+Knights Sanguine
+Knights Unyielding
+Lamenters
+Legion of Night
+Libators
+Liberators
+Lion Warriors
+Lions Defiant
+Lords of Wrath
+Mantis Warriors
+Marauders
+Marines August
+Marines Errant
+Marines Errantor
+Marines Exemplar
+Marines Malevolent
+Marines Mordant
+Masters of Protelus
+Mentors
+Metamarines
+Minotaurs
+Mortifactors
+Nemesis
+Night Hawks
+Night Reapers
+Night Swords
+Night Watch
+Nightwatch
+Nova Wings
+Novamarines
+Oblators
+Omega Marines
+Pain Bringers
+Panthers
+Patriarchs of Ulixis
+Penitents
+Persecutors of Darkness
+Praetors of Orpheus
+Purgators
+Purple Stars
+Rainbow Warriors
+Rampagers
+Raptors
+Raven Guard
+Raven’s Watch
+Reclaimers
+Red Consuls
+Red Dragons
+Red Hunters
+Red Knights
+Red Legion
+Red Scimitars
+Red Scorpions
+Red Seraphs
+Red Talons
+Red Templars
+Red Wings
+Red Wolves
+Redeemed
+Redeemers
+Redemptors
+Reparators
+Retractors
+Revilers
+Rhetors
+Sable Swords
+Salamanders
+Scar Lords
+Scions of Sanguinius
+Scythes of the Emperor
+Shadow Falcons
+Shadow Haunters
+Shadow Hawks
+Silver Eagles
+Silver Guard
+Silver Sabres
+Silver Skulls
+Silver Stars
+Skull Bearers
+Sky Sentinels
+Solar Hawks
+Sons of Antaeus
+Sons of Dorn
+Sons of Gideon
+Sons of Guilliman
+Sons of Jaghatai
+Sons of Medusa
+Sons of Orar
+Sons of the Kraken
+Space Wolves
+Star Dragons
+Star Leopards
+Star Phantoms
+Steel Confessors
+Stone Gauntlets
+Stone Hearts
+Storm Callers
+Storm Falcons
+Storm Giants
+Storm Hawks
+Storm Lords
+Storm Ravens
+Storm Wardens
+Storm Warriors
+Storm Wings
+Stormwalkers
+Subjugators
+Supplicators
+Tarantulas
+Tauran
+Tempest Guard
+Tempestors
+Templars of Blood
+Terror Tigers
+Thunder Barons
+Tigers Argent
+Tormented
+Tormentors
+Tributors
+Twilight Chapters
 Ultramarines
-White Corsairs
-Minators
-Red Skulls
+Valedictors
+Venerators of Osiron
+Victors
+Vindicators
+Viper Legion
+Vorpal Swords
+War Bearers
+Warhawks
+Warmongers
+Warrior Adepts
+Warriors Tempest
+White Consuls
+White Minotaurs
+White Panthers
+White Scars
+White Templars
+Widowmakers
 
 STOP
