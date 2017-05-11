@@ -4,11 +4,11 @@ A Twitter bot created to generate simple news headlines from the warhammer 40k u
 This script is to tweet news made from the imperial_times_news.py file
 '''
 
-# Importing needed modules, tweepy for twitter api, time for delays and news for news
+# Importing needed modules, tweepy for twitter api, time for delays, os for keys and news for news
 import tweepy
 import time
+from os import environ
 import imperial_times_news
-from twitter_keys import *
 
 # Set up OAuth and integrate with API
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
