@@ -26,7 +26,7 @@ Alfrost
 Nimbosa
 Gereon
 Inwit
-K’ail
+Kâ€™ail
 Rand XXI
 Arminiun
 Amistel
@@ -649,5 +649,3 @@ Sepharis Ultra
 Sparme
 Tsan Domus
 Yrnax
-
-STOP
