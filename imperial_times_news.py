@@ -76,14 +76,13 @@ def battle_report():
     else:
         return("A thorough clensing of " + random.choice(planets) + " was undertaken by the " + random.choice(chapters) + " led by a local Inquisitor, due to alleged Chaos infection.")
 
-# returns a random prayer from the txt file
-def prayer():
-    return(random.choice(prayers))
-
-
 '''
 New types of news functions in progress
 
+# returns a random prayer from the txt file
+def prayer():
+    return(random.choice(prayers))
+    
 def mechanicus_message():
     return()
     
@@ -98,7 +97,6 @@ def civil_unrest():
 
 def traitor_marines():
     return()
-    #
 '''
 
 
@@ -106,7 +104,7 @@ def traitor_marines():
 # list of tweet types and a function to pick which type of news to tweet
 # needed by tweeter module, DO NOT change below here without thinking
 # and add new news types to the array as required
-tweet_types = [obituary, new_marine, marine_promotion, battle_report, prayer]
+tweet_types = [obituary, new_marine, marine_promotion, battle_report]
 
 def tweet_news():
     return(random.choice(tweet_types)())
@@ -120,6 +118,6 @@ chapters = import_list("Chapter")
 roles = import_list("Role")
 enemies = import_list("Enemy")
 ranks = import_list("Rank")
-prayers = import_list("Prayer")
 # yet to use
+prayers = import_list("Prayer")
 traitor_legions = import_list("Traitor Legion")
