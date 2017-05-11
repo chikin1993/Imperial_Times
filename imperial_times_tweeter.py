@@ -7,7 +7,7 @@ This script is to tweet news made from the imperial_times_news.py file
 # Importing needed modules, tweepy for twitter api, time for delays, os for keys and news for news
 import tweepy
 import time
-from os import environ
+import os
 import imperial_times_news
 
 # Getting API keys from the Heroku environ
