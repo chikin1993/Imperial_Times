@@ -1,5 +1,18 @@
 Assault
 Devastator
 Tactical
-
-STOP
+Tactical Support
+Destroyer
+Scout
+Scout Sniper
+Centurion Assault
+Centurion Devastator
+Sternguard Veteran
+Vanguard Veteran
+Terminator Squad
+Terminator Assault
+Terminator Command
+Cataphractii Terminator
+Tartaros Terminator
+Command
+Reclusiam Command
