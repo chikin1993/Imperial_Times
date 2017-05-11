@@ -1,6 +1,29 @@
 Captain
-Seargent
+Sergeant
 Commander
 Lord Commander
-
-STOP
+Master
+Chapter Master
+Grand Master
+Supreme Grand Master
+Marshal
+High Marshal
+Company Champion
+Standard Bearer
+Veteran
+Librarian
+Chief Librarian
+Epistolary
+Codicier
+Lexicanium
+Acolytum
+Chaplain
+Interrogator-Chaplain
+Master of Sanctity
+Reclusiarch
+Apothecary
+Master of the Apothecarion
+Techmarine
+Chief Techmarine
+Master of the Forge
+Master of the Signal
