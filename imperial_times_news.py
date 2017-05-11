@@ -12,7 +12,6 @@ def import_list(var):
     with open(var+".txt") as f:
         content = f.readlines()
         content = [x.strip() for x in content]
-        content = content[:-2]
     return content
 
 
