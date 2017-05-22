@@ -22,8 +22,6 @@ IDEA Curfews and other civil disturbances, riots etc
 IDEA Recruitment for guardsman and PDF?
 IDEA Add some prayers too, would likely be less generated
 IDEA traitor legion incursion? sorry and a prayer
-IDEA go over and use roles more?
-IDEA append roman numerals to planets in txt list when updated
 '''
 
 # random obituary for a high-ranking marine
@@ -75,17 +73,21 @@ def battle_report():
         return("A battle-force of " + random.choice(chapters) + " were forced to abandon " + random.choice(planets) + " due to irreparable taint from the " + random.choice(enemies) + ", exterminatus expected.")
     else:
         return("A thorough clensing of " + random.choice(planets) + " was undertaken by the " + random.choice(chapters) + " led by a local Inquisitor, due to alleged Chaos infection.")
+    
+def mechanicus_message():
+    pick = random.randint(1,4)
+    if pick == 1:
+        return("After recent damage caused by attacks from the " + random.choice(enemies) + ", sector " + str(random.randint(1,100)) + " of planet " + random.choice(planets) + " will be partially uninhabitable for the next " + str(random.randint(2,40)) + " months. The Mechanicus apologies for any inconvenience caused.")
+    elif pick == 2:
+        return("Due to unexpectedly high levels of radiation leakage on " + random.choice(planets) + ", mutations are unacceptably high and nearby " + random.choice(chapters) + " are inbound for purification. The Mechanicus apologies for any inconvenience caused.")
+    elif pick == 3:
+        return("Mechanicus servitor stock low on " + random.choice(planets) + ", good prices paid to the families of the chosen.")
+    else:
+        return("Technologically gifted individuals on " + random.choice(planets) + ", the Mechanicus have been asked to fill roles of chapter serfs in the " + random.choice(chapters) + " as soon as the Emperor will allow.")
 
 '''
 New types of news functions in progress
 
-# returns a random prayer from the txt file
-def prayer():
-    return(random.choice(prayers))
-    
-def mechanicus_message():
-    return()
-    
 def warp_travel():
     return()
     
@@ -97,6 +99,10 @@ def civil_unrest():
 
 def traitor_marines():
     return()
+
+# returns a random prayer from the txt file
+def prayer():
+    return(random.choice(prayers))
 '''
 
 
@@ -104,7 +110,7 @@ def traitor_marines():
 # list of tweet types and a function to pick which type of news to tweet
 # needed by tweeter module, DO NOT change below here without thinking
 # and add new news types to the array as required
-tweet_types = [obituary, new_marine, marine_promotion, battle_report]
+tweet_types = [obituary, new_marine, marine_promotion, battle_report, mechanicus_message]
 
 def tweet_news():
     return(random.choice(tweet_types)())
