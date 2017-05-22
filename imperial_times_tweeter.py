@@ -23,7 +23,7 @@ api = tweepy.API(auth)
 
 # A cheeky while loop do the tweets
 while True:
-    tweet = str(imperial_times_news.tweet_news())
+    tweet = str(imperial_times_news.tweet_news() + " #warhammer40k")
     api.update_status(status=tweet)
     print(tweet)
     time.sleep(18000)
