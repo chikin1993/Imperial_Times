@@ -14,14 +14,8 @@ def import_list(var):
         content = [x.strip() for x in content]
     return content
 
-
 '''
-IDEA Mechanicus maintance in sectors and certain things broken
-IDEA Severe weather/warp-storm warnings for some places
-IDEA Curfews and other civil disturbances, riots etc
-IDEA Recruitment for guardsman and PDF?
 IDEA Add some prayers too, would likely be less generated
-IDEA traitor legion incursion? sorry and a prayer
 '''
 
 # random obituary for a high-ranking marine
@@ -73,7 +67,8 @@ def battle_report():
         return("A battle-force of " + random.choice(chapters) + " were forced to abandon " + random.choice(planets) + " due to irreparable taint from the " + random.choice(enemies) + ", exterminatus expected.")
     else:
         return("A thorough clensing of " + random.choice(planets) + " was undertaken by the " + random.choice(chapters) + " led by a local Inquisitor, due to alleged Chaos infection.")
-    
+
+# creates news associated with the mechanicum
 def mechanicus_message():
     pick = random.randint(1,4)
     if pick == 1:
@@ -85,52 +80,56 @@ def mechanicus_message():
     else:
         return("Technologically gifted individuals on " + random.choice(planets) + ", the Mechanicus have been asked to fill roles of chapter serfs in the " + random.choice(chapters) + " as soon as the Emperor will allow.")
 
-'''
-New types of news functions in progress
-
+# announcements related to current warp activity for travel
 def warp_travel():
     pick = random.randint(1,4)
     if pick == 1:
-        return("Due to recent warp-storms and local heresy, warp travel between PLANET and PLANET is now unadvisable. May the Emperor protect.")
+        return("Due to recent warp-storms and local heresy, warp travel between " + random.choice(planets) + " and " + random.choice(planets) + " is now unadvisable. May the Emperor protect.")
     elif pick == 2:
-        return("A large warp-rift has been detected in the system of the planet PLANET. Avoid if possible, CHAPTER astartes have been dispatched.")
+        return("A large warp-rift has been detected in the system of the planet " + random.choice(planets) + ". Avoid if possible, " + random.choice(chapters) + " astartes have been dispatched.")
     elif pick == 3:
-        return("After abation of recent warp-storms, travel has been re-instated around PLANET, caution still advised.")
+        return("After abation of recent warp-storms, travel has been re-instated around " + random.choice(planets) + ", caution still advised.")
     else:
-        return("Astropathic contact has been lost with PLANET, PLANET and PLANET. We will give updates if the occur.")
-    
+        return("Astropathic contact has been lost with " + random.choice(planets) + ", " + random.choice(planets) + " and " + random.choice(planets) + ". We will give updates if they occur.")
+
+# recuitment ads for various groups
 def recruitment():
     pick = random.randint(1,4)
     if pick == 1:
-        return("Want to see the galaxy, prove your faith and get paid? Imperial Guard recruitment tents now open in sector RAND on PLANET. Sign up today!")
+        return("Want to see the galaxy, prove your faith and get paid? Imperial Guard recruitment tents now open in sector " + str(random.randint(1,100)) + " on " + random.choice(planets) + ". Sign up today!")
     elif pick == 2:
-        return("After recent ENEMY attacks, significant openings in the PLANET planetary defence forces must be filled. Successful applicants will also recieve a free subscription to the Imperial Times.")
+        return("After recent " + random.choice(enemies) + " attacks, significant openings in the " + random.choice(planets) + " planetary defence forces must be filled. Successful applicants will also receive a free subscription to the Imperial Times.")
     elif pick == 3:
-        return("CHAPTER recruitment officers en-route to PLANET, sector RAND. Seek out Captain NAME to begin testing, unsuccessful initiates will be given servitor servitude.")
+        return(random.choice(chapters) + " recruitment officers en-route to " + random.choice(planets) + ", sector " + str(random.randint(1,100)) + ". Seek out Captain " + random.choice(names) + " to begin testing, unsuccessful initiates will be given servitor servitude.")
     else:
-        return("Imperial Guard regiment RAND on PLANET are now recruiting in sector RAND for infantry and sector RAND for mobile armour positions. A complimentary lasgun and flak vest will be provided.")
-    
+        return("Imperial Guard regiment " + str(random.randint(1,100)) + " on " + random.choice(planets) + " are now recruiting in sector " + str(random.randint(1,100)) + " for infantry and sector " + str(random.randint(1,100)) + " for mobile armour positions. A complimentary lasgun and flak vest will be provided.")
+
+# news of civil disturbances and suppression    
 def civil_unrest():
     pick = random.randint(1,4)
     if pick == 1:
-        return("Sector RAND of PLANET will now be subject to a 9pm Terran standard curfew due to recent outbreaks of civil unrest.")
+        return("Sector " + str(random.randint(1,100)) + " of " + random.choice(planets) + " will now be subject to a 9pm Terran standard curfew due to recent outbreaks of civil unrest.")
     elif pick == 2:
-        return("After the loss of a fleet of cargo ships, the Administratum assures us there will be no food shortages on PLANET, Arbites will be deployed to ensure civilian saftey.")
+        return("After the loss of a fleet of cargo ships, the Administratum assures us there will be no food shortages on " + random.choice(planets) + ", Arbites will be deployed to ensure civilian saftey.")
     elif pick == 3:
-        return("Rioting in sector RAND of PLANET has forced the deployment of local Guard forces for suppression. The Emperor protects those who protect themselves.")
+        return("Rioting in sector " + str(random.randint(1,100)) + " of " + random.choice(planets) + " has forced the deployment of local Guard forces for suppression. The Emperor protects those who protect themselves.")
     else:
-        return("Due to an unknown pathogen on a nearby agri-world, food prices are set to double for PLANET, additional Arbites forces will be deployed to supress dissatisfied subjects.")
+        return("Due to an unknown pathogen on a nearby agri-world, food prices are set to double on " + random.choice(planets) + ", additional Arbites forces will be deployed to supress dissatisfied subjects.")
 
+# news concerning the original traitor legions and their actions
 def traitor_marines():
     pick = random.randint(1,4)
     if pick == 1:
-        return("A large fleet of the TRAITORS traitor legion has been detected near PLANET. Emperor give you strength for the horrors you will endure.")
+        return("A large fleet of the " + random.choice(traitors) + " traitor legion has been detected near " + random.choice(planets) + ". Emperor give you strength for the horrors you will endure.")
     elif pick == 2:
-        return("Stray elements of the TRAITORS have been eradicated by a fleet from the CHAPTER. His will be done.")
+        return("Stray elements of the " + random.choice(traitors) + " have been eradicated by a fleet from the " + random.choice(chapters) + ". His will be done.")
     elif pick == 3:
-        return("Due to recent allegeded contact between the planetary goverment of PLANET and operatives of the traitor TRAITOR legion, the Inquition has grounded all orbital flights and transfers.")
+        return("Due to recent allegeded contact between the planetary goverment of " + random.choice(planets) + " and operatives of the traitor " + random.choice(traitors) + ", the Inquition has grounded all orbital flights and transfers.")
     else:
-        return("TRAITOR legionaries have been routed from sector RAND of planet PLANET, precautionary civil executions may follow to ensure the purity of the populace.")
+        return("" + random.choice(traitors) + " legionaries have been routed from sector " + str(random.randint(1,100)) + " of planet " + random.choice(planets) + ", precautionary civil executions may follow to ensure the purity of the populace.")
+
+'''
+New types of news functions in progress
 
 # returns a random prayer from the txt file
 def prayer():
@@ -140,12 +139,10 @@ def prayer():
 # list of tweet types and a function to pick which type of news to tweet
 # needed by tweeter module, DO NOT change below here without thinking
 # and add new news types to the array as required
-tweet_types = [obituary, new_marine, marine_promotion, battle_report, mechanicus_message]
+tweet_types = [obituary, new_marine, marine_promotion, battle_report, mechanicus_message, warp_travel, recruitment, civil_unrest, traitor_marines]
 
 def tweet_news():
     return(random.choice(tweet_types)())
-
-
 
 # keep all list variables here
 names = import_list("Name")
@@ -154,6 +151,6 @@ chapters = import_list("Chapter")
 roles = import_list("Role")
 enemies = import_list("Enemy")
 ranks = import_list("Rank")
+traitors = import_list("Traitor Legion")
 # yet to use
 prayers = import_list("Prayer")
-traitor_legions = import_list("Traitor Legion")
